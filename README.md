@@ -1,8 +1,9 @@
 # Analyze-Angellist-and-Crunchbase-Data
 
-
+https://github.com/kevin11h/Crunchbase-Data-Hacking
 
 https://github.com/bugra/angel-list
+
 https://njamaleddine/AngelList-Startups
 
 ### Angellist Startups NYC
