@@ -6,6 +6,8 @@ https://github.com/bugra/angel-list
 
 https://njamaleddine/AngelList-Startups
 
+https://archive.nytimes.com/www.nytimes.com/interactive/2012/05/17/business/dealbook/how-the-facebook-offering-compares.html
+
 ### Angellist Startups NYC
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Id</th>
